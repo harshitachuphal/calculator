@@ -33,15 +33,13 @@ Simple-Calculator/
 └── README.md
 ```
 
-## Screenshot
-### Addition
-![Addition](add.png)
-### Subtraction
-![Subtraction](sub.png)
-### Multiplication
-![Multiplication](mul.png)
-### Division
-![Division](div.png)
+## Screenshots
+
+<img src="add.png" width="400">
+<img src="sub.png" width="400">
+
+<img src="mul.png" width="400">
+<img src="div.png" width="400">
 
 ## Author
 Harshita Chuphal
