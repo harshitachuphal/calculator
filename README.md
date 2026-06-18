@@ -41,8 +41,10 @@ Simple-Calculator/
 ### Subtraction
 ![Subtraction](sub.png)
 
+
 ### Multiplication
 ![Multiplication](mul.png)
+
 
 ### Division
 ![Division](div.png)
