@@ -34,8 +34,15 @@ Simple-Calculator/
 ```
 
 ## Screenshot
-
+### Addition
+![Addition](add.png)
+### Subtraction
+![Subtraction](sub.png)
+### Multiplication
+![Multiplication](mul.png)
+### Division
+![Division](div.png)
 
 ## Author
 
-Harshita
+Harshita Chuphal
