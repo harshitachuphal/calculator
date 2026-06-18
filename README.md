@@ -35,11 +35,7 @@ Simple-Calculator/
 
 ## Screenshots
 
-<img src="add.png" width="400">
-<img src="sub.png" width="400">
 
-<img src="mul.png" width="400">
-<img src="div.png" width="400">
 
 ## Author
 Harshita Chuphal
