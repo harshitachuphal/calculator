@@ -44,5 +44,11 @@ Simple-Calculator/
 ![Division](div.png)
 
 ## Author
-
 Harshita Chuphal
+
+GitHub: https://github.com/harshitachuphal
+
+LinkedIn: https://www.linkedin.com/in/harshita-chuphal-3a2453326
+
+LeetCode: https://leetcode.com/u/harshitachuphal_12/
+
